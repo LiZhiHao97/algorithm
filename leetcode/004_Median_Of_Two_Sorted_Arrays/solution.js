@@ -38,7 +38,7 @@ function findMedianSortedArrays(nums1, nums2) {
   }
   const len = nums.length
   len % 2 ? result = nums[Math.floor(len / 2)] : result = (nums[len / 2 - 1] + nums[len / 2]) / 2
-  return result
+  return resultcd
 }
 
 const nums1 = [1,2]
