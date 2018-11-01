@@ -11,7 +11,6 @@ function findMedianSortedArrays(nums1, nums2) {
     cur: null
   }
   while ((nums1.length + nums2.length) >= half) {
-    console.log(nums1, nums2)
     output.prev = output.cur
     if (nums1.length === 0) {
       output.cur = nums2.shift()
