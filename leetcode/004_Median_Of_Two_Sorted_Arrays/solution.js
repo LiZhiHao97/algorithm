@@ -4,41 +4,33 @@
  * @return {number}
  */
 function findMedianSortedArrays(nums1, nums2) {
-  let result
-  let nums
-  if (!(nums1.length && nums2.length)) {
-    nums = nums1.length ? [...nums1] : [...nums2]
-  } else if (nums1[nums1.length - 1] < nums2[0]) {
-    nums = [...nums1]
-    nums.splice(nums.length, 0, ...nums2)
-  } else if (nums2[nums2.length - 1] < nums1[0]) {
-    nums = [...nums2]
-    nums.splice(nums.length, 0, ...nums1)
-  } else {
-    let shortNums
-    if (nums1.length >= nums2.length) {
-      nums = [...nums1]
-      shortNums = [...nums2]
-    } else {
-      nums = [...nums2]
-      shortNums = [...nums1]
-    }
-    let i = 0
-    while (i < nums.length - 1 && shortNums.length) {
-      if (shortNums[0] <= nums[i + 1]) {
-        if (shortNums[0] >= nums[i]) {
-          nums.splice(i + 1, 0, shortNums.shift())
-        } else {
-          nums.splice(0, 0, shortNums.shift())
-        }
-      }
-      i++
-    }
-    shortNums.length ? nums.splice(i + 1, 0, ...shortNums) : null
+  const len = nums1.length + nums2.length
+  const half = Math.ceil(len / 2)
+  const output = {
+    prev: null,
+    cur: null
   }
-  const len = nums.length
-  len % 2 ? result = nums[Math.floor(len / 2)] : result = (nums[len / 2 - 1] + nums[len / 2]) / 2
-  return resultcd
+  while ((nums1.length + nums2.length) >= half) {
+    console.log(nums1, nums2)
+    output.prev = output.cur
+    if (nums1.length === 0) {
+      output.cur = nums2.shift()
+    } else if (nums2.length === 0) {
+      output.cur = nums1.shift()
+    } else {
+      if (nums1[0] >= nums2[0]) {
+        output.cur = nums2.shift()
+      } else {
+        output.cur = nums1.shift()
+      }
+    }
+  }
+  
+  if (len % 2 === 0) {
+    return (output.prev + output.cur) / 2
+  } else {
+    return output.cur
+  }
 }
 
 const nums1 = [1,2]
