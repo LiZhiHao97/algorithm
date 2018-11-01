@@ -10,7 +10,7 @@ function reverse(x) {
   }
   let newNum = parseInt(str.split('').reverse().join(''), 10)
   flag ? null : newNum = -newNum
-  if (newNum < -Math.pow(2, 31) || x > Math.pow(2, 31) - 1) {
+  if (newNum < -Math.pow(2, 31) || newNum > Math.pow(2, 31) - 1) {
     return 0
   }
   return newNum
