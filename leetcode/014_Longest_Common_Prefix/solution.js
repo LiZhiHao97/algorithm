@@ -6,21 +6,16 @@ function longestCommonPrefix(strs) {
     if (!strs.length) {
       return ""
     }
-    let base = strs[0]
-    let result = ""
-    let count = 1
-    while (count <= base.length) {
-      let flag = true
-      let current = base.substring(0, count)
-      for (item of strs) {
-        if (current !== item.substring(0, count)) {
-          return result
+    let prefix = strs[0]
+    for (let i = 0; i < strs.length; i++) {
+      while(strs[i].indexOf(prefix) !== 0) {
+        prefix = prefix.slice(0, -1)
+        if (prefix === "") {
+          return prefix
         }
       }
-      result = current
-      count ++
     }
-    return result
+    return prefix
 }
 
 const strs = ["a"]
