@@ -13,3 +13,4 @@
 | 015 | [3Sum](https://leetcode.com/problems/3sum/description/) | JS | Hard |
 | 020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | JS | Easy |
 | 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | JS | Easy |
+| 024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | JS | Easy |
