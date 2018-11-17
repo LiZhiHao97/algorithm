@@ -12,5 +12,6 @@
 | 014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | JS | Medium |
 | 015 | [3Sum](https://leetcode.com/problems/3sum/description/) | JS | Hard |
 | 020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | JS | Easy |
-| 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | JS | Easy |
+| 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | JS | Medium |
 | 024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | JS | Easy |
+| 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | JS | Easy |
