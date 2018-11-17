@@ -10,12 +10,16 @@
  * @return {ListNode}
  */
 function swapPairs(head) {
-    let cur = head
-    while(cur.next) {
-      let temp = cur.next.next
-      cur.next.next = cur
-      cur.next = temp
-      cur = cur.next
-    }
+  if (!head || !head.next) {
     return head
+  }
+  let newHead = head.next
+  let cur = head
+  while (cur && cur.next) {
+    let twoStep = cur.next.next
+    cur.next.next = cur
+    cur.next = (twoStep && twoStep.next) ? twoStep.next : twoStep
+    cur = cur.next 
+  }
+  return cur
 }
