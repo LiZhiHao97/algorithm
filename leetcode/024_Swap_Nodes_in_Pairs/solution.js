@@ -19,7 +19,7 @@ function swapPairs(head) {
     let twoStep = cur.next.next
     cur.next.next = cur
     cur.next = (twoStep && twoStep.next) ? twoStep.next : twoStep
-    cur = cur.next 
+    cur = twoStep
   }
   return cur
 }
