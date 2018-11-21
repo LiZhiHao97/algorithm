@@ -15,6 +15,7 @@
 | 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | JS | Medium |
 | 024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | JS | Easy |
 | 033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | JS | Medium |
+| 034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | JS | Medium |
 | 039 | [Combination Sum](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | JS | Medium |
 | 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/) | JS | Medium |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | JS | Easy |
