@@ -5,28 +5,18 @@
  */
 function combinationSum(candidates, target) {
   const result = []
-  candidates = candidates.sort((a, b) => a - b)
-  for (let i = candidates.length - 1; i >= 0; i--) {
-    if (candidates[i] === target) {
-      result.push([candidates[i]])
-      continue
+  function dfs(current, start, sum) {
+    if (sum === target) {
+      result.push(current)
+      return
+    } else if (sum > target) {
+      return
     }
-    let cur = [candidates[i]]
-    let sum = candidates[i]
-    let j = i
-    while (j >= 0) {
-      console.log(cur, candidates[j])
-      if (sum + candidates[j] < target) {
-        sum += candidates[j]
-        cur.push(candidates[j])
-      } else if (sum + candidates[j] > target) {
-        j--
-      } else if (sum + candidates[j] === target) {
-        result.push([...cur, candidates[j]])
-        j--
-      }
+    for (let i = startIndex; i < candidates.length; i++) {
+      dfs([...current, candidates[i]], i, sum + candidates[i])
     }
   }
+  dfs([], 0, 0)
   return result
 }
 
