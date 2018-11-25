@@ -18,5 +18,6 @@
 | 034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | JS | Medium |
 | 038 | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | JS | Medium |
 | 039 | [Combination Sum](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | JS | Medium |
+| 046 | [Permutations](https://leetcode.com/problems/permutations/description/) | JS | Medium |
 | 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/) | JS | Medium |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | JS | Easy |
