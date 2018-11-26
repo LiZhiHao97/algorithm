@@ -11,6 +11,7 @@
 | 009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | JS | Easy |
 | 014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | JS | Medium |
 | 015 | [3Sum](https://leetcode.com/problems/3sum/description/) | JS | Hard |
+| 017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | JS | Medium |
 | 020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | JS | Easy |
 | 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | JS | Medium |
 | 024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | JS | Easy |
