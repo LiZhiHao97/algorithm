@@ -20,7 +20,8 @@
 | 038 | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | JS | Medium |
 | 039 | [Combination Sum](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | JS | Medium |
 | 046 | [Permutations](https://leetcode.com/problems/permutations/description/) | JS | Medium |
-| 050 | [Permutations](https://leetcode.com/problems/powx-n/) | JS | Medium |
-| 054 | [Permutations](https://leetcode.com/problems/spiral-matrix/) | c++ | Medium |
+| 050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | JS | Medium |
+| 054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | c++ | Medium |
+| 055 | [Jump Game](https://leetcode.com/problems/jump-game/) | c++ | Medium |
 | 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/) | JS | Medium |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | JS | Easy |
