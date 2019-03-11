@@ -23,5 +23,6 @@
 | 050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | JS | Medium |
 | 054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | c++ | Medium |
 | 055 | [Jump Game](https://leetcode.com/problems/jump-game/) | c++ | Medium |
+| 060 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | c++ | Medium |
 | 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/) | JS | Medium |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | JS | Easy |
