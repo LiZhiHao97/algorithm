@@ -26,5 +26,6 @@
 | 060 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | c++ | Medium |
 | 062 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | c++ | Medium |
 | 075 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | c++ | Medium |
+| 077 | [Combinations](https://leetcode.com/problems/combinations/) | c++ | Medium |
 | 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/) | JS | Medium |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | JS | Easy |
