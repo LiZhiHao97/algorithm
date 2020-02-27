@@ -34,8 +34,7 @@
 
 | # | Title | Solution | Difficulty |
 | ------ | ------ | ------ | ------ |
-| P1056 | [排座椅](https://www.luogu.com.cn/problem/P1056) | c++ | 
-普及/提高- |
+| P1056 | [排座椅](https://www.luogu.com.cn/problem/P1056) | c++ | 普及/提高- |
 # 杭州电子科技大学OJ
 
 | # | Title | Solution | Difficulty |
