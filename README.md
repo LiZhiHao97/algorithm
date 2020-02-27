@@ -30,3 +30,13 @@
 | 078 | [Subsets](https://leetcode.com/problems/subsets/submissions/) | c++ | Medium |
 | 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/) | JS | Medium |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | JS | Easy |
+# 洛谷
+
+| # | Title | Solution | Difficulty |
+| ------ | ------ | ------ | ------ |
+| P1056 | [排座椅](https://www.luogu.com.cn/problem/P1056) | c++ | 
+普及/提高- |
+# 杭州电子科技大学OJ
+
+| # | Title | Solution | Difficulty |
+| ------ | ------ | ------ | ------ |
