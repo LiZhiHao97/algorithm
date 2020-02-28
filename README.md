@@ -37,6 +37,7 @@
 | P1056 | [排座椅](https://www.luogu.com.cn/problem/P1056) | c++ | 普及/提高- |
 | P1023 | [税收与补贴问题](https://www.luogu.com.cn/problem/P1023) | c++ | 普及/提高- |
 | P1031 | [均分纸牌](https://www.luogu.com.cn/problem/P1031) | c++ | 普及- |
+| P1042 | [乒乓球](https://www.luogu.com.cn/problem/P1042) | c++ | 普及- |
 # 杭州电子科技大学OJ
 
 | # | Title | Solution | Difficulty |
