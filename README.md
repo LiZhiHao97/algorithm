@@ -39,6 +39,7 @@
 | P1031 | [均分纸牌](https://www.luogu.com.cn/problem/P1031) | c++ | 普及- |
 | P1042 | [乒乓球](https://www.luogu.com.cn/problem/P1042) | c++ | 普及- |
 | P1042 | [花生采摘](https://www.luogu.com.cn/problem/P1086) | c++ | 普及- |
+| P1098 | [字符串的展开](https://www.luogu.com.cn/problem/P1098) | c++ | 普及/提高- |
 # 杭州电子科技大学OJ
 
 | # | Title | Solution | Difficulty |
