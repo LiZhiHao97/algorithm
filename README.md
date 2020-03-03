@@ -42,5 +42,6 @@
 | P1098 | [字符串的展开](https://www.luogu.com.cn/problem/P1098) | c++ | 普及/提高- |
 # 杭州电子科技大学OJ
 
-| # | Title | Solution | Difficulty |
+| # | Title | Solution | Ratio |
 | ------ | ------ | ------ | ------ |
+| 2035 | [人见人爱A^B](http://acm.hdu.edu.cn/showproblem.php?pid=2035) | c++ | 66.35% |
