@@ -47,3 +47,4 @@
 | 2035 | [人见人爱A^B](http://acm.hdu.edu.cn/showproblem.php?pid=2035) | c++ | 快速幂 | 66.35% |
 | 2037 | [今年暑假不AC](http://acm.hdu.edu.cn/showproblem.php?pid=2037) | c++ | 区间贪心 | 53.25% |
 | 2046 | [骨牌铺方格](http://acm.hdu.edu.cn/showproblem.php?pid=2046) | c++ | 递推 | 47.98% |
+| 2048 | [神、上帝以及老天爷](http://acm.hdu.edu.cn/showproblem.php?pid=2048) | c++ | 错位排列 | 39.47% |
