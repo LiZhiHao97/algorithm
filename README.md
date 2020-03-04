@@ -45,3 +45,4 @@
 | # | Title | Solution | Ratio |
 | ------ | ------ | ------ | ------ |
 | 2035 | [人见人爱A^B](http://acm.hdu.edu.cn/showproblem.php?pid=2035) | c++ | 66.35% |
+| 2037 | [今年暑假不AC](http://acm.hdu.edu.cn/showproblem.php?pid=2037) | c++ | 53.25% |
