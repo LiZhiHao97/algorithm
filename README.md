@@ -49,3 +49,4 @@
 | 2046 | [骨牌铺方格](http://acm.hdu.edu.cn/showproblem.php?pid=2046) | c++ | 递推 | 47.98% |
 | 2048 | [神、上帝以及老天爷](http://acm.hdu.edu.cn/showproblem.php?pid=2048) | c++ | 错位排列 | 39.47% |
 | 2049 | [不容易系列之(4)——考新郎](http://acm.hdu.edu.cn/showproblem.php?pid=2049) | c++ | 错位排列 | 36.38% |
+| 2054 | [A == B ?](http://acm.hdu.edu.cn/showproblem.php?pid=2054) | c++ |  | 16.23% |
