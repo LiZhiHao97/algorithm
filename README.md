@@ -50,4 +50,5 @@
 | 2048 | [神、上帝以及老天爷](http://acm.hdu.edu.cn/showproblem.php?pid=2048) | c++ | 错位排列 | 39.47% |
 | 2049 | [不容易系列之(4)——考新郎](http://acm.hdu.edu.cn/showproblem.php?pid=2049) | c++ | 错位排列 | 36.38% |
 | 2054 | [A == B ?](http://acm.hdu.edu.cn/showproblem.php?pid=2054) | c++ |  | 16.23% |
-| 2058 | [The sum problem](http://acm.hdu.edu.cn/showproblem.php?pid=2058) | c++ |  | 29.97% |
+| 2058 | [The sum problem](http://acm.hdu.edu.cn/showproblem.php?pid=2058) | c++ | 数论 | 29.97% |
+| 2094 | [产生冠军](http://acm.hdu.edu.cn/showproblem.php?pid=2094) | c++ | 拓扑排序 | 44.98% |
