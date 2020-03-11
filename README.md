@@ -53,6 +53,7 @@
 | 2058 | [The sum problem](http://acm.hdu.edu.cn/showproblem.php?pid=2058) | c++ | 数论 | 29.97% |
 | 2059 | [龟兔赛跑](http://acm.hdu.edu.cn/showproblem.php?pid=2059) | c++ | 动态规划 | 35.86% |
 | 2064 | [汉诺塔III](http://acm.hdu.edu.cn/showproblem.php?pid=2064) | c++ | 递推 | 47.54% |
+| 2067 | [小兔的棋盘](http://acm.hdu.edu.cn/showproblem.php?pid=2067) | c++ | 动态规划 | 50.13% |
 | 2068 | [RPG的错排](http://acm.hdu.edu.cn/showproblem.php?pid=2068) | c++ | 错位排列 | 39.83% |
 | 2077 | [汉诺塔IV](http://acm.hdu.edu.cn/showproblem.php?pid=2077) | c++ | 递推 | 68.98% |
 | 2084 | [数塔](http://acm.hdu.edu.cn/showproblem.php?pid=2084) | c++ | 动态规划 | 57.61% |
