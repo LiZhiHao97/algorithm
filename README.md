@@ -58,3 +58,8 @@
 | 2077 | [汉诺塔IV](http://acm.hdu.edu.cn/showproblem.php?pid=2077) | c++ | 递推 | 68.98% |
 | 2084 | [数塔](http://acm.hdu.edu.cn/showproblem.php?pid=2084) | c++ | 动态规划 | 57.61% |
 | 2094 | [产生冠军](http://acm.hdu.edu.cn/showproblem.php?pid=2094) | c++ | 拓扑排序 | 44.98% |
+
+# 其他
+| # | Title | Solution | type | source |
+| ------ | ------ | ------ | ------ | ------ |
+| 1 | [聊天成好友？](http://192.168.60.36/JudgeOnline/problem.php?id=1718) | c++ | 并查集 | 水院OJ |
