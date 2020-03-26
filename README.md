@@ -63,3 +63,4 @@
 | # | Title | Solution | type | source |
 | ------ | ------ | ------ | ------ | ------ |
 | 1 | [聊天成好友？](http://192.168.60.36/JudgeOnline/problem.php?id=1718) | c++ | 并查集 | 水院OJ |
+| 2 | [背包装载]() | c++ | dfs | 水院OJ |
