@@ -2,7 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 | ------ | ------ | ------ | ------ |
-| 001 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | JS | Easy |
+| 001 | [两数之和](https://leetcode-cn.com/problems/two-sum/) | JS/c++ | Easy |
 | 002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | JS | Medium |
 | 003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | JS | Medium |
 | 004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | JS | Hard |
