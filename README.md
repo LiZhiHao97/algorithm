@@ -3,7 +3,7 @@
 | # | Title | Solution | Difficulty |
 | ------ | ------ | ------ | ------ |
 | 001 | [两数之和](https://leetcode-cn.com/problems/two-sum/) | JS/c++ | Easy |
-| 002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | JS | Medium |
+| 002 | [两数相加](https://leetcode-cn.com/problems/add-two-numbers/) | JS/c++ | Medium |
 | 003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | JS | Medium |
 | 004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | JS | Hard |
 | 005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | JS | Medium |
@@ -29,7 +29,7 @@
 | 077 | [Combinations](https://leetcode.com/problems/combinations/) | c++ | Medium |
 | 078 | [Subsets](https://leetcode.com/problems/subsets/submissions/) | c++ | Medium |
 | 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/) | JS | Medium |
-| 167 | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | JS | Easy |
+| 167 | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | JS/c++ | Easy |
 # 洛谷
 
 | # | Title | Solution | Difficulty |
