@@ -14,6 +14,7 @@ public:
             if (a.count(target - nums[i]) > 0) {
                 b[0] = a[target - nums[i]];
                 b[1] = i;
+                break;
             }
 
             a[nums[i]] = i;
