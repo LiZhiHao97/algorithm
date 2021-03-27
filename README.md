@@ -5,7 +5,7 @@
 | 001 | [两数之和](https://leetcode-cn.com/problems/two-sum/) | JS/c++ | Easy |
 | 002 | [两数相加](https://leetcode-cn.com/problems/add-two-numbers/) | JS/c++ | Medium |
 | 003 | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | JS/c++ | Medium |
-| 004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | JS | Hard |
+| 004 | [寻找两个正序数组的中位数](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | JS/c++ | Hard |
 | 005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | JS | Medium |
 | 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | JS | Easy |
 | 009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | JS | Easy |
