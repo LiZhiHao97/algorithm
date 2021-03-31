@@ -10,7 +10,7 @@
 | 006 | [Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/) | c++ | Medium |
 | 007 | [整数反转](https://leetcode-cn.com/problems/reverse-integer/) | JS/c++ | easy |
 | 008 | [字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | c++ | medium |
-| 009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | JS | Easy |
+| 009 | [回文数](https://leetcode-cn.com/problems/palindrome-number/) | JS/c++ | Easy |
 | 014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | JS | Medium |
 | 015 | [3Sum](https://leetcode.com/problems/3sum/description/) | JS | Hard |
 | 017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | JS | Medium |
