@@ -8,9 +8,10 @@
 | 004 | [寻找两个正序数组的中位数](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | JS/c++ | Hard |
 | 005 | [最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) | JS/c++ | Medium |
 | 006 | [Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/) | c++ | Medium |
-| 007 | [整数反转](https://leetcode-cn.com/problems/reverse-integer/) | JS/c++ | easy |
-| 008 | [字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | c++ | medium |
+| 007 | [整数反转](https://leetcode-cn.com/problems/reverse-integer/) | JS/c++ | Easy |
+| 008 | [字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | c++ | Medium |
 | 009 | [回文数](https://leetcode-cn.com/problems/palindrome-number/) | JS/c++ | Easy |
+| 011 | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | c++ | Medium |
 | 014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | JS | Medium |
 | 015 | [3Sum](https://leetcode.com/problems/3sum/description/) | JS | Hard |
 | 017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | JS | Medium |
