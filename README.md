@@ -12,7 +12,7 @@
 | 008 | [字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | c++ | Medium |
 | 009 | [回文数](https://leetcode-cn.com/problems/palindrome-number/) | JS/c++ | Easy |
 | 011 | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | c++ | Medium |
-| 014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | JS | Medium |
+| 014 | [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) | JS/c++ | Medium |
 | 015 | [3Sum](https://leetcode.com/problems/3sum/description/) | JS | Hard |
 | 017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | JS | Medium |
 | 020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | JS | Easy |
