@@ -15,7 +15,7 @@
 | 014 | [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) | JS/c++ | Medium |
 | 015 | [三数之和](https://leetcode-cn.com/problems/3sum/) | JS/c++ | Medium |
 | 016 | [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) | c++ | Medium |
-| 017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | JS | Medium |
+| 017 | [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | JS/c++ | Medium |
 | 020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | JS | Easy |
 | 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | JS | Medium |
 | 024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | JS | Easy |
