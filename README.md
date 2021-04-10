@@ -17,7 +17,7 @@
 | 016 | [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) | c++ | Medium |
 | 017 | [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | JS/c++ | Medium |
 | 020 | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | JS/c++ | Easy |
-| 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | JS | Medium |
+| 021 | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | JS/c++ | Easy |
 | 024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | JS | Easy |
 | 033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | JS | Medium |
 | 034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | JS | Medium |
