@@ -20,7 +20,7 @@
 | 021 | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | JS/c++ | Easy |
 | 021 | [括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | c++ | Medium |
 | 024 | [两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | JS/c++ | Medium |
-| 033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | JS | Medium |
+| 033 | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | JS/c++ | Medium |
 | 034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | JS | Medium |
 | 038 | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | JS | Medium |
 | 039 | [Combination Sum](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | JS | Medium |
