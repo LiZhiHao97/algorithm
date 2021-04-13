@@ -1,8 +1,3 @@
-#include <iostream>
-#include <vector>
-
-using namespace  std;
-
 class Solution {
 public:
     int binarySearch(vector<int>& nums, int target, bool flag) {
@@ -31,18 +26,3 @@ public:
         return vector<int> {-1, -1};
     }
 };
-
-int main() {
-    Solution solution;
-    int a[6] = {5, 7, 7, 8, 8, 10};
-    vector<int> nums(a, a + 6);
-    int target = 8;
-
-    vector<int> ans = solution.searchRange(nums, target);
-
-    for (int i = 0; i < ans.size(); i++) {
-        cout << ans[i] << endl;
-    }
-
-    return 0;
-}
