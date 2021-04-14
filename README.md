@@ -23,7 +23,7 @@
 | 033 | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | JS/c++ | Medium |
 | 034 | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | JS/c++ | Medium |
 | 035 | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | c++ | Easy |
-| 038 | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | JS | Medium |
+| 038 | [外观数列](https://leetcode-cn.com/problems/count-and-say/) | JS/c++ | Easy |
 | 039 | [Combination Sum](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | JS | Medium |
 | 046 | [Permutations](https://leetcode.com/problems/permutations/description/) | JS | Medium |
 | 050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | JS | Medium |
