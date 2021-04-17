@@ -27,6 +27,7 @@
 | 039 | [组合总数](https://leetcode-cn.com/problems/combination-sum/) | JS/c++ | Medium |
 | 046 | [全排列](https://leetcode-cn.com/problems/permutations/) | JS/c++ | Medium |
 | 047 | [全排列Ⅱ](https://leetcode-cn.com/problems/permutations-ii/) | c++ | Medium |
+| 048 | [旋转图像](https://leetcode-cn.com/problems/rotate-image/) | c++ | Medium |
 | 050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | JS | Medium |
 | 054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | c++ | Medium |
 | 055 | [Jump Game](https://leetcode.com/problems/jump-game/) | c++ | Medium |
