@@ -30,7 +30,7 @@
 | 048 | [旋转图像](https://leetcode-cn.com/problems/rotate-image/) | c++ | Medium |
 | 050 | [Pow(x, n)](https://leetcode-cn.com/problems/powx-n/) | JS/c++ | Medium |
 | 054 | [螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/) | c++ | Medium |
-| 055 | [Jump Game](https://leetcode.com/problems/jump-game/) | c++ | Medium |
+| 055 | [跳跃游戏](https://leetcode-cn.com/problems/jump-game/) | c++ | Medium |
 | 060 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | c++ | Medium |
 | 062 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | c++ | Medium |
 | 075 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | c++ | Medium |
