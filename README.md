@@ -34,6 +34,7 @@
 | 060 | [排列序列](https://leetcode-cn.com/problems/permutation-sequence/) | c++ | Hard |
 | 062 | [不同路径](https://leetcode-cn.com/problems/unique-paths/) | c++ | Medium |
 | 063 | [不同路径II](https://leetcode-cn.com/problems/unique-paths-ii/) | c++ | Medium |
+| 064 | [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) | c++ | Medium |
 | 075 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | c++ | Medium |
 | 077 | [Combinations](https://leetcode.com/problems/combinations/) | c++ | Medium |
 | 078 | [Subsets](https://leetcode.com/problems/subsets/submissions/) | c++ | Medium |
