@@ -18,7 +18,7 @@ public:
         return combinations;
     }
 
-    void traceback(int start , int remain, vector<int>& candidates, vector<int>& combination, vector<vector<int>>& combinations, int n) {
+    void traceback(int start, int remain, vector<int>& candidates, vector<int>& combination, vector<vector<int>>& combinations, int n) {
         if (remain <= 0) {
             if (remain == 0) {
                 combinations.push_back(combination);
@@ -27,9 +27,11 @@ public:
         }
 
         for (int i = start; i < n; i++) {
-            combination.push_back(candidates[i]);
-            traceback(start + 1, remain - candidates[i], candidates, combination, combinations, n);
-            combination.pop_back();
+            if (i == start || candidates[i] != candidates[i - 1]) {
+                combination.push_back(candidates[i]);
+                traceback(i + 1, remain - candidates[i], candidates, combination, combinations, n);
+                combination.pop_back();
+            }
         }
     }
 };
@@ -41,7 +43,7 @@ int main() {
     vector<vector<int>> ans = solution.combinationSum2(candidates, target);
 
     for (int i = 0; i < ans.size(); i++) {
-        for (int j = 0; j < ans[0].size(); j++) {
+        for (int j = 0; j < ans[i].size(); j++) {
             cout << ans[i][j] << " ";
         }
         cout << endl;
