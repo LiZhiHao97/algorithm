@@ -40,7 +40,7 @@
 | 077 | [组合](https://leetcode-cn.com/problems/combinations/) | c++ | Medium |
 | 078 | [子集](https://leetcode-cn.com/problems/subsets/) | c++ | Medium |
 | 078 | [子集Ⅱ](https://leetcode-cn.com/problems/subsets-ii/) | c++ | Medium |
-| 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/) | JS | Medium |
+| 165 | [比较版本号](https://leetcode.com/problems/compare-version-numbers/description/) | JS/c++ | Medium |
 | 167 | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | JS/c++ | Easy |
 # 洛谷
 
