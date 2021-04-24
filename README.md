@@ -25,6 +25,7 @@
 | 035 | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | c++ | Easy |
 | 038 | [外观数列](https://leetcode-cn.com/problems/count-and-say/) | JS/c++ | Easy |
 | 039 | [组合总数](https://leetcode-cn.com/problems/combination-sum/) | JS/c++ | Medium |
+| 039 | [组合总数Ⅱ](https://leetcode-cn.com/problems/combination-sum-ii/) | c++ | Medium |
 | 046 | [全排列](https://leetcode-cn.com/problems/permutations/) | JS/c++ | Medium |
 | 047 | [全排列Ⅱ](https://leetcode-cn.com/problems/permutations-ii/) | c++ | Medium |
 | 048 | [旋转图像](https://leetcode-cn.com/problems/rotate-image/) | c++ | Medium |
