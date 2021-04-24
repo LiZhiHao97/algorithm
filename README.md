@@ -36,7 +36,7 @@
 | 063 | [不同路径II](https://leetcode-cn.com/problems/unique-paths-ii/) | c++ | Medium |
 | 064 | [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) | c++ | Medium |
 | 075 | [颜色分类](https://leetcode-cn.com/problems/sort-colors/) | c++ | Medium |
-| 077 | [Combinations](https://leetcode.com/problems/combinations/) | c++ | Medium |
+| 077 | [组合](https://leetcode-cn.com/problems/combinations/) | c++ | Medium |
 | 078 | [Subsets](https://leetcode.com/problems/subsets/submissions/) | c++ | Medium |
 | 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/) | JS | Medium |
 | 167 | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | JS/c++ | Easy |
