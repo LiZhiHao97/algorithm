@@ -39,12 +39,14 @@
 | 062 | [不同路径](https://leetcode-cn.com/problems/unique-paths/) | c++ | Medium |
 | 063 | [不同路径II](https://leetcode-cn.com/problems/unique-paths-ii/) | c++ | Medium |
 | 064 | [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) | c++ | Medium |
+| 071 | [简化路径](https://leetcode-cn.com/problems/simplify-path) | c++ | Medium |
 | 075 | [颜色分类](https://leetcode-cn.com/problems/sort-colors/) | c++ | Medium |
 | 077 | [组合](https://leetcode-cn.com/problems/combinations/) | c++ | Medium |
 | 078 | [子集](https://leetcode-cn.com/problems/subsets/) | c++ | Medium |
 | 078 | [子集Ⅱ](https://leetcode-cn.com/problems/subsets-ii/) | c++ | Medium |
 | 165 | [比较版本号](https://leetcode.com/problems/compare-version-numbers/description/) | JS/c++ | Medium |
 | 167 | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | JS/c++ | Easy |
+| 1720 | [解码异或后的数组](https://leetcode-cn.com/problems/decode-xored-array/) | c++ | Easy |
 # 洛谷
 
 | # | Title | Solution | Difficulty |
