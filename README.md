@@ -34,6 +34,7 @@
 | 050 | [Pow(x, n)](https://leetcode-cn.com/problems/powx-n/) | JS/c++ | Medium |
 | 054 | [螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/) | c++ | Medium |
 | 055 | [跳跃游戏](https://leetcode-cn.com/problems/jump-game/) | c++ | Medium |
+| 056 | [合并区间](https://leetcode-cn.com/problems/merge-intervals/) | c++ | Medium |
 | 060 | [排列序列](https://leetcode-cn.com/problems/permutation-sequence/) | c++ | Hard |
 | 061 | [旋转列表](https://leetcode-cn.com/problems/rotate-list/) | c++ | Medium |
 | 062 | [不同路径](https://leetcode-cn.com/problems/unique-paths/) | c++ | Medium |
