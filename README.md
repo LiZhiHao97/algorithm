@@ -48,6 +48,7 @@
 | 093 | [复原ip地址](https://leetcode-cn.com/problems/restore-ip-addresses/) | c++ | Medium |
 | 165 | [比较版本号](https://leetcode.com/problems/compare-version-numbers/description/) | JS/c++ | Medium |
 | 167 | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | JS/c++ | Easy |
+| 872 | [叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees/) | c++ | Easy |
 | 1720 | [解码异或后的数组](https://leetcode-cn.com/problems/decode-xored-array/) | c++ | Easy |
 # 洛谷
 
