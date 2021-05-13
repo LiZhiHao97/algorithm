@@ -47,6 +47,7 @@
 | 0090 | [子集Ⅱ](https://leetcode-cn.com/problems/subsets-ii/) | c++ | Medium |
 | 0093 | [复原ip地址](https://leetcode-cn.com/problems/restore-ip-addresses/) | c++ | Medium |
 | 0094 | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | c++ | Easy |
+| 0094 | [不同的二叉搜索树Ⅱ](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | c++ | Medium |
 | 0096 | [不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/) | c++ | Medium |
 | 0165 | [比较版本号](https://leetcode.com/problems/compare-version-numbers/description/) | JS/c++ | Medium |
 | 0167 | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | JS/c++ | Easy |
