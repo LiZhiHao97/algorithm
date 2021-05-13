@@ -50,7 +50,8 @@
 | 0094 | [不同的二叉搜索树Ⅱ](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | c++ | Medium |
 | 0096 | [不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/) | c++ | Medium |
 | 0096 | [不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/) | c++ | Medium |
-| 0144 | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/submissions/) | c++ | Medium |
+| 0144 | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | c++ | Medium |
+| 0145 | [二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | c++ | Easy |
 | 0167 | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | JS/c++ | Easy |
 | 0872 | [叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees/) | c++ | Easy |
 | 1720 | [解码异或后的数组](https://leetcode-cn.com/problems/decode-xored-array/) | c++ | Easy |
