@@ -44,6 +44,7 @@
 | 0075 | [颜色分类](https://leetcode-cn.com/problems/sort-colors/) | c++ | Medium |
 | 0077 | [组合](https://leetcode-cn.com/problems/combinations/) | c++ | Medium |
 | 0078 | [子集](https://leetcode-cn.com/problems/subsets/) | c++ | Medium |
+| 0083 | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | c++ | Easy |
 | 0090 | [子集Ⅱ](https://leetcode-cn.com/problems/subsets-ii/) | c++ | Medium |
 | 0093 | [复原ip地址](https://leetcode-cn.com/problems/restore-ip-addresses/) | c++ | Medium |
 | 0094 | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | c++ | Easy |
