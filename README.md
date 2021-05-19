@@ -20,7 +20,8 @@
 | 0020 | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | JS/c++ | Easy |
 | 0021 | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | JS/c++ | Easy |
 | 0021 | [括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | c++ | Medium |
-| 0024 | [两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | JS/c++ | Medium |
+| 0024 | [两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | JS/c++ | Easy |
+| 0026 | [删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | c++ | Medium |
 | 0033 | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | JS/c++ | Medium |
 | 0034 | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | JS/c++ | Medium |
 | 0035 | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | c++ | Easy |
