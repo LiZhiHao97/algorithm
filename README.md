@@ -55,6 +55,7 @@
 | 0096 | [不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/) | c++ | Medium |
 | 0102 | [二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | c++ | Medium |
 | 0107 | [二叉树的层序遍历Ⅱ](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/) | c++ | Medium |
+| 0110 | [平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/) | c++ | Easy |
 | 0144 | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | c++ | Medium |
 | 0145 | [二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | c++ | Easy |
 | 0167 | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | JS/c++ | Easy |
