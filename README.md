@@ -1,7 +1,7 @@
 # LeetCode
 
 | # | Title | Solution | Difficulty | Type |
-| ------ | ------ | ------ | ------ |
+| ------ | ------ | ------ | ------ | ------ |
 | 0001 | [两数之和](https://leetcode-cn.com/problems/two-sum/) | JS/c++ | Easy |
 | 0002 | [两数相加](https://leetcode-cn.com/problems/add-two-numbers/) | JS/c++ | Medium |
 | 0003 | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | JS/c++ | Medium |
