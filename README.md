@@ -11,12 +11,12 @@
 | 0007 | [整数反转](https://leetcode-cn.com/problems/reverse-integer/) | JS/c++ | Easy |
 | 0008 | [字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | c++ | Medium |
 | 0009 | [回文数](https://leetcode-cn.com/problems/palindrome-number/) | JS/c++ | Easy |
-| 0011 | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | c++ | Medium |
+| 0011 | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | c++ | Medium | 双指针 |
 | 0014 | [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) | JS/c++ | Medium |
-| 0015 | [三数之和](https://leetcode-cn.com/problems/3sum/) | JS/c++ | Medium |
+| 0015 | [三数之和](https://leetcode-cn.com/problems/3sum/) | JS/c++ | Medium | 双指针 |
 | 0016 | [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) | c++ | Medium |
 | 0017 | [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | JS/c++ | Medium |
-| 0018 | [四数之和](https://leetcode-cn.com/problems/4sum/) | c++ | Medium |
+| 0018 | [四数之和](https://leetcode-cn.com/problems/4sum/) | c++ | Medium | 双指针 |
 | 0020 | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | JS/c++ | Easy |
 | 0021 | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | JS/c++ | Easy |
 | 0021 | [括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | c++ | Medium |
