@@ -65,6 +65,7 @@
 | 0199 | [二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | c++ | Medium |
 | 0435 | [无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals/) | c++ | Medium | 贪心算法 |
 | 0452 | [用最少数量的箭引爆气球](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/) | c++ | Medium | 贪心算法 |
+| 0752 | [打开转盘锁](https://leetcode-cn.com/problems/open-the-lock/) | c++ | Medium | 双向BFS |
 | 0872 | [叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees/) | c++ | Easy |
 | 1720 | [解码异或后的数组](https://leetcode-cn.com/problems/decode-xored-array/) | c++ | Easy |
 # 洛谷
