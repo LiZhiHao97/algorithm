@@ -28,6 +28,7 @@
 | 0038 | [外观数列](https://leetcode-cn.com/problems/count-and-say/) | JS/c++ | Easy |
 | 0039 | [组合总数](https://leetcode-cn.com/problems/combination-sum/) | JS/c++ | Medium |
 | 0039 | [组合总数Ⅱ](https://leetcode-cn.com/problems/combination-sum-ii/) | c++ | Medium |
+| 0042 | [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/) | c++ | Hard |
 | 0045 | [跳跃游戏Ⅱ](https://leetcode-cn.com/problems/jump-game-ii/) | c++ | Medium |
 | 0046 | [全排列](https://leetcode-cn.com/problems/permutations/) | JS/c++ | Medium |
 | 0047 | [全排列Ⅱ](https://leetcode-cn.com/problems/permutations-ii/) | c++ | Medium |
