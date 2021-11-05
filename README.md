@@ -51,6 +51,7 @@
 | 0082 | [删除排序链表中的重复元素II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | c++ | Medium |
 | 0083 | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | c++ | Easy |
 | 0090 | [子集Ⅱ](https://leetcode-cn.com/problems/subsets-ii/) | c++ | Medium |
+| 0091 | [解码方法](https://leetcode-cn.com/problems/decode-ways/) | c++ | Medium | 动态规划 |
 | 0093 | [复原ip地址](https://leetcode-cn.com/problems/restore-ip-addresses/) | c++ | Medium |
 | 0094 | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | c++ | Easy |
 | 0094 | [不同的二叉搜索树Ⅱ](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | c++ | Medium |
