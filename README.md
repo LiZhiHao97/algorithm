@@ -28,7 +28,7 @@
 | 0038 | [外观数列](https://leetcode-cn.com/problems/count-and-say/) | JS/c++ | Easy |
 | 0039 | [组合总数](https://leetcode-cn.com/problems/combination-sum/) | JS/c++ | Medium |
 | 0039 | [组合总数Ⅱ](https://leetcode-cn.com/problems/combination-sum-ii/) | c++ | Medium |
-| 0042 | [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/) | c++ | Hard |
+| 0042 | [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/) | c++ | Hard | 动态规划 |
 | 0045 | [跳跃游戏Ⅱ](https://leetcode-cn.com/problems/jump-game-ii/) | c++ | Medium |
 | 0046 | [全排列](https://leetcode-cn.com/problems/permutations/) | JS/c++ | Medium |
 | 0047 | [全排列Ⅱ](https://leetcode-cn.com/problems/permutations-ii/) | c++ | Medium |
@@ -71,6 +71,7 @@
 | 0452 | [用最少数量的箭引爆气球](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/) | c++ | Medium | 贪心算法 |
 | 0752 | [打开转盘锁](https://leetcode-cn.com/problems/open-the-lock/) | c++ | Medium | 双向BFS |
 | 0872 | [叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees/) | c++ | Easy |
+| 1218 | [最长定差子序列](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/) | c++ | Medium | 动态规划 |
 | 1720 | [解码异或后的数组](https://leetcode-cn.com/problems/decode-xored-array/) | c++ | Easy |
 # 洛谷
 
