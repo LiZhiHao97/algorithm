@@ -54,7 +54,7 @@
 | 0091 | [解码方法](https://leetcode-cn.com/problems/decode-ways/) | c++ | Medium | 动态规划 |
 | 0093 | [复原ip地址](https://leetcode-cn.com/problems/restore-ip-addresses/) | c++ | Medium |
 | 0094 | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | c++ | Easy |
-| 0094 | [不同的二叉搜索树Ⅱ](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | c++ | Medium |
+| 0095 | [不同的二叉搜索树Ⅱ](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | c++ | Medium |
 | 0096 | [不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/) | c++ | Medium |
 | 0097 | [交错字符串](https://leetcode-cn.com/problems/interleaving-string/) | c++ | Medium | 动态规划 |
 | 0102 | [二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | c++ | Medium |
