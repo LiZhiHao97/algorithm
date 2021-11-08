@@ -60,6 +60,7 @@
 | 0102 | [二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | c++ | Medium |
 | 0107 | [二叉树的层序遍历Ⅱ](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/) | c++ | Medium |
 | 0110 | [平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/) | c++ | Easy |
+| 0120 | [三角形最小路径和](https://leetcode-cn.com/problems/triangle/) | c++ | Medium | 动态规划 |
 | 0122 | [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/balanced-binary-tree/) | c++ | Medium | 贪心算法/动态规划 |
 | 0134 | [加油站](https://leetcode-cn.com/problems/gas-station/) | c++ | Medium | 贪心算法 |
 | 0135 | [分发糖果](https://leetcode-cn.com/problems/candy/) | c++ | Hard | 贪心算法 |
