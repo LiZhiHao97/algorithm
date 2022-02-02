@@ -78,6 +78,10 @@
 | 0872 | [叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees/) | c++ | Easy |
 | 1218 | [最长定差子序列](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/) | c++ | Medium | 动态规划 |
 | 1720 | [解码异或后的数组](https://leetcode-cn.com/problems/decode-xored-array/) | c++ | Easy |
+# 剑指offer
+
+| # | Title | Solution | Difficulty | Type |
+| 003 | [剑指 Offer 03. 数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | c++ | Easy |
 # 洛谷
 
 | # | Title | Solution | Difficulty |
