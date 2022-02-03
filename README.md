@@ -83,6 +83,7 @@
 | # | Title | Solution | Difficulty | Type |
 | ------ | ------ | ------ | ------ | ------ |
 | 003 | [剑指 Offer 03. 数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | c++ | Easy |
+| 004 | [剑指 Offer 04. 二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) | c++ | Medium |
 # 洛谷
 
 | # | Title | Solution | Difficulty |
