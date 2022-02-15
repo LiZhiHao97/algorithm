@@ -93,6 +93,7 @@
 | 012 | [剑指 Offer 12. 矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/) | c++ | Medium | 回溯法 |
 | 013 | [剑指 Offer 13. 机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | c++ | Medium | 回溯法 |
 | 014 | [剑指 Offer 14- I. 剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/) | c++ | Medium | 动态规划 |
+| 015 | [剑指 Offer 15. 二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | c++ | Easy | 位运算 |
 # 洛谷
 
 | # | Title | Solution | Difficulty |
