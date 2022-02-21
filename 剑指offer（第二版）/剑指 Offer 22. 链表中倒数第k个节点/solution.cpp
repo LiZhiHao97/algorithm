@@ -16,11 +16,19 @@ struct ListNode {
 class Solution {
 public:
     ListNode* getKthFromEnd(ListNode* head, int k) {
+        if (k == 0 || head == nullptr) {
+            return nullptr;
+        }
+
         ListNode* pre = head;
         ListNode* cur = head;
 
-        while(k-- && cur != nullptr) {
-            cur = cur->next;
+        for (int i = 0; i < k; i++) {
+            if (cur->next != nullptr) {
+                cur = cur->next;
+            } else {
+                return nullptr;
+            }
         }
 
         while(cur != nullptr) {
