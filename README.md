@@ -102,7 +102,8 @@
 | 022 | [剑指 Offer 22. 链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | c++ | Easy | 双指针 |
 | 024 | [剑指 Offer 24. 反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) | c++ | Easy | 双指针/递归 |
 | 025 | [剑指 Offer 25. 合并两个排序的链表](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) | c++ | Easy | 双指针 |
-| 025 | [剑指 Offer 26. 树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/) | c++ | Medium | 递归 |
+| 026 | [剑指 Offer 26. 树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/) | c++ | Medium | 递归 |
+| 027 | [剑指 Offer 27. 二叉树的镜像](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/) | c++ | Easy | 递归 |
 # 洛谷
 
 | # | Title | Solution | Difficulty |
