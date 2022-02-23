@@ -106,6 +106,7 @@
 | 027 | [剑指 Offer 27. 二叉树的镜像](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/) | c++ | Easy | 递归 |
 | 028 | [剑指 Offer 28. 对称的二叉树](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/) | c++ | Easy | 递归 |
 | 029 | [剑指 Offer 29. 顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) | c++ | Easy | 模拟 |
+| 030 | [剑指 Offer 30. 包含min函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/) | c++ | Easy | 模拟 |
 # 洛谷
 
 | # | Title | Solution | Difficulty |
