@@ -114,6 +114,7 @@
 | 034 | [剑指 Offer 34. 二叉树中和为某一值的路径](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/) | c++ | Medium | 回溯 |
 | 035 | [剑指 Offer 35. 复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/) | c++ | Medium | 递归 |
 | 036 | [剑指 Offer 36. 二叉搜索树与双向链表](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/) | c++ | Medium | 递归/中序遍历 |
+| 037 | [剑指 Offer 37. 序列化二叉树](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/) | c++ | Hard | 递归/中序遍历 |
 # 洛谷
 
 | # | Title | Solution | Difficulty |
