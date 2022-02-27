@@ -117,6 +117,7 @@
 | 037 | [剑指 Offer 37. 序列化二叉树](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/) | c++ | Hard | 递归 |
 | 038 | [剑指 Offer 38. 字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/) | c++ | Medium | 回溯 |
 | 039 | [剑指 Offer 39. 数组中出现次数超过一半的数字](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/) | c++ | Easy | 模拟 |
+| 040 | [剑指 Offer 40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | c++ | Easy | 快排 |
 # 洛谷
 
 | # | Title | Solution | Difficulty |
