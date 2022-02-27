@@ -116,6 +116,7 @@
 | 036 | [剑指 Offer 36. 二叉搜索树与双向链表](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/) | c++ | Medium | 递归/中序遍历 |
 | 037 | [剑指 Offer 37. 序列化二叉树](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/) | c++ | Hard | 递归 |
 | 038 | [剑指 Offer 38. 字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/) | c++ | Medium | 回溯 |
+| 039 | [剑指 Offer 39. 数组中出现次数超过一半的数字](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/) | c++ | Easy | 模拟 |
 # 洛谷
 
 | # | Title | Solution | Difficulty |
