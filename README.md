@@ -119,6 +119,7 @@
 | 039 | [剑指 Offer 39. 数组中出现次数超过一半的数字](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/) | c++ | Easy | 模拟 |
 | 040 | [剑指 Offer 40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | c++ | Easy | 快排 |
 | 042 | [剑指 Offer 42. 连续子数组的最大和](https://leetcode-cn.com/problems/maximum-subarray/) | c++ | Easy | 动态规划 |
+| 043 | [剑指 Offer 43. 1～n 整数中 1 出现的次数](https://leetcode-cn.com/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof/) | c++ | Hard | 模拟 |
 # 洛谷
 
 | # | Title | Solution | Difficulty |
