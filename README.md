@@ -126,6 +126,7 @@
 | 047 | [剑指 Offer 47. 礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/) | c++ | Medium | 动态规划 |
 | 048 | [剑指 Offer 48. 最长不含重复字符的子字符串](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/) | c++ | Medium | 双指针 |
 | 049 | [剑指 Offer 49. 丑数](https://leetcode-cn.com/problems/chou-shu-lcof/) | c++ | Medium | 动态规划 |
+| 051 | [剑指 Offer 51. 数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) | c++ | Hard | 归并排序 |
 # 洛谷
 
 | # | Title | Solution | Difficulty |
