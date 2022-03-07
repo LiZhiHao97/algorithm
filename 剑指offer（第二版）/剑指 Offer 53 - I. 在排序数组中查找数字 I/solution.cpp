@@ -5,24 +5,37 @@ public:
         if (!n) {
             return 0;
         }
-        int ans = 0;
 
-        int leftIdx = binarySearch(0, n - 1, nums, target, true);
-        int rightIdx = binarySearch(0, n - 1, nums, target, false) - 1;
+        int leftIdx = binarySearchLeft(nums, target);
+        int rightIdx = binarySearchRight(nums, target);
 
-        if (leftIdx <= rightIdx && nums[leftIdx] == target && nums[rightIdx] == target) {
-            ans = rightIdx - leftIdx + 1;
+        if (nums[leftIdx] == target && nums[rightIdx] == target) {
+            return rightIdx - leftIdx + 1;
         }
-        return ans;
+        return 0;
     }
 
-    int binarySearch(int l, int r, vector<int> &nums, int target, bool isLeft) {
+    int binarySearchLeft(vector<int> &nums, int target) {
+        int l = 0, r = nums.size() - 1;
         while (l < r) {
-            int mid = (l + r) / 2;
-            if ((nums[mid] >= target && isLeft) || nums[mid] > target) {
+            int mid = l + (r - l) / 2;
+            if (nums[mid] >= target) {
                 r = mid;
             } else {
                 l = mid + 1;
+            }
+        }
+        return l;
+    }
+
+    int binarySearchRight(vector<int> &nums, int target) {
+        int l = 0, r = nums.size() - 1;
+        while (l < r) {
+            int mid = l + (r - l) / 2 + 1;
+            if (nums[mid] > target) {
+                r = mid - 1;
+            } else {
+                l = mid;
             }
         }
         return l;
