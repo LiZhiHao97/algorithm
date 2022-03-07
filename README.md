@@ -131,6 +131,7 @@
 | 053 | [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/) | c++ | Easy | 二分查找 |
 | 053 | [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/) | c++ | Easy | 二分查找 |
 | 054 | [剑指 Offer 54. 二叉搜索树的第k大节点](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/) | c++ | Easy | dfs |
+| 055 | [剑指 Offer 55 - I. 二叉树的深度](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/) | c++ | Easy | bfs |
 # 洛谷
 
 | # | Title | Solution | Difficulty |
