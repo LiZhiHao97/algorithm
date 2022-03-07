@@ -132,6 +132,7 @@
 | 053 | [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/) | c++ | Easy | 二分查找 |
 | 054 | [剑指 Offer 54. 二叉搜索树的第k大节点](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/) | c++ | Easy | dfs |
 | 055 | [剑指 Offer 55 - I. 二叉树的深度](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/) | c++ | Easy | bfs |
+| 055 | [剑指 Offer 55 - II. 平衡二叉树](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/) | c++ | Easy | dfs |
 # 洛谷
 
 | # | Title | Solution | Difficulty |
