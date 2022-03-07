@@ -128,6 +128,7 @@
 | 049 | [剑指 Offer 49. 丑数](https://leetcode-cn.com/problems/chou-shu-lcof/) | c++ | Medium | 动态规划 |
 | 051 | [剑指 Offer 51. 数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) | c++ | Hard | 归并排序 |
 | 052 | [剑指 Offer 52. 两个链表的第一个公共节点](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/) | c++ | Easy | 模拟 |
+| 053 | [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/) | c++ | Easy | 二分查找 |
 # 洛谷
 
 | # | Title | Solution | Difficulty |
