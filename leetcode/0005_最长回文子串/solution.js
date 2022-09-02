@@ -1,36 +1,26 @@
-/**
- * @param {string} s
- * @return {string}
- */
-function longestPalindrome(s) {
-  let result = ''
-  let step = 0
-  for(let i = 0; i < s.length; i = i + 1 + step) {
-    let left = i - 1
-    let right = i + 1
-    while (s[i] === s[right]) {
-      right++
-    }
-    if (right - i - 1 >= 2) {
-      step = right - i - 1
-    } else {
-      step = 0
-    }
-    while (left >= 0 && right < s.length) {
-      if (s[left] === s[right]) {
-        left--
-        right++
-      } else {
-        break
-      }
-    }
-    if (right - left - 1 > result.length) {
-      result = s.slice(left + 1, right)
-    }
-  }
-  return result
-}
 
-const s = "bbbac"
+const initial2DArray = (n, m, val) => Array(n).fill().map(() => Array(m).fill(val))
 
-console.log(longestPalindrome(s))
+var longestPalindrome = function(s) {
+    const n = s.length
+    const dp = initial2DArray(n, n, false)
+    let ans = ''
+
+    for (let l = 0; l < n; l++) {
+        for (let i = 0; i + l < n; i++) {
+            let j = i + l
+            if (l == 0) {
+                dp[i][j] = true
+            } else if (l == 1) {
+                dp[i][j] = (s[i] == s[j])
+            } else {
+                dp[i][j] = (s[i] == s[j] && dp[i + 1][j - 1])
+            }
+            if (dp[i][j] && l + 1 > ans.length) {
+                ans = s.substr(i, l + 1)
+            }
+        }
+    }
+
+    return ans
+};
